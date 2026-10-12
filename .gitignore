@@ -1,0 +1,31 @@
+# Dependencies/build
+node_modules/
+dist/
+!app/client/dist/
+build/
+coverage/
+*.log
+
+# Secrets/local settings
+.env
+.env.*
+!.env.example
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Personal data/backups/reports/references
+data/*
+!data/README.md
+backups/*
+!backups/README.md
+reports/*
+!reports/README.md
+references/*
+!references/README.md
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+Thumbs.db
+.DS_Store
