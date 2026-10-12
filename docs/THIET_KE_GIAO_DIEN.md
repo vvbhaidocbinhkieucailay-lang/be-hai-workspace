@@ -10,7 +10,7 @@ Giữ header ngang, nền thoáng, hai khối lớn. Thay hai đối tượng b�
 | Thứ tự | Khu vực | Nội dung |
 |---|---|---|
 | 1 | Header | Nhận diện, 3 mục điều hướng, tìm kiếm, thêm mới |
-| 2 | Hero gọn | Không gian làm việc Ngọc Mai; Giảng dạy · Chuyên môn · Công việc · Luận văn |
+| 2 | Hero gọn | Không gian làm việc Bé Hai; Giảng dạy · Chuyên môn · Công việc · Luận văn |
 | 3 | Việc cần chú ý | Ưu tiên, hạn gần, mốc luận văn; mỗi thẻ mở chi tiết |
 | 4 | Hai khối | Trái: kế hoạch/chuyên môn/văn bản. Phải: lịch/email/luận văn |
 | 5 | Đang thực hiện | Lịch tuần và nhiệm vụ gần hạn |

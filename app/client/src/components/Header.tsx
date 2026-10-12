@@ -115,12 +115,12 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="header-inner">
-        <Link to="/" className="brand" aria-label="Không gian làm việc Ngọc Mai – Tổng quan">
+        <Link to="/" className="brand" aria-label="Không gian làm việc Bé Hai – Tổng quan">
           <span className="brand-mark" aria-hidden="true">
             NM
           </span>
           <span className="brand-text">
-            <strong>Ngọc Mai</strong>
+            <strong>Bé Hai</strong>
             <small>Không gian làm việc</small>
           </span>
         </Link>

@@ -82,7 +82,7 @@ export function App() {
   useEffect(() => {
     const p = loc.path;
     const t = TITLES.find(([k]) => p.startsWith(k))?.[1];
-    document.title = `${t ? `${t} – ` : ''}Không gian làm việc Ngọc Mai`;
+    document.title = `${t ? `${t} – ` : ''}Không gian làm việc Bé Hai`;
     // Chuyển trang: đưa focus về nội dung chính (không làm ở lần tải đầu để Tab đầu tiên vào link “Bỏ qua”)
     if (firstRender.current) firstRender.current = false;
     else document.getElementById('main')?.focus({ preventScroll: true });
@@ -111,7 +111,7 @@ export function App() {
       </main>
       <footer className="site-footer">
         <div className="footer-inner">
-          <span>Không gian làm việc Ngọc Mai · V1 chạy cục bộ trên máy này</span>
+          <span>Không gian làm việc Bé Hai · V1 chạy cục bộ trên máy này</span>
           <nav aria-label="Chân trang">
             <Link to="/huong-dan">Hướng dẫn</Link>
             <Link to="/cai-dat">Quản lí dữ liệu &amp; sao lưu</Link>

@@ -68,7 +68,7 @@ export function Home() {
       <section className="hero" aria-labelledby="hero-title">
         <p className="hero-pill">Năm học {CURRENT_SCHOOL_YEAR} · Giảng dạy · Chuyên môn · Công việc · Luận văn</p>
         <h1 id="hero-title">
-          Không gian làm việc <span className="c-teal">Ngọc Mai</span>
+          Không gian làm việc <span className="c-teal">Bé Hai</span>
         </h1>
         <p className="hero-sub">Biết việc cần làm, tìm đúng tài liệu, theo dõi tiến độ giảng dạy và luận văn — dữ liệu lưu ngay trên máy này (ổ D).</p>
       </section>

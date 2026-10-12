@@ -1,10 +1,10 @@
 # Trạng thái hiện tại
 
-> Mới nhất (12/10/2026): đã rà soát và chuẩn hóa tên hiển thị về **KHÔNG GIAN LÀM VIỆC NGỌC MAI** theo đặc tả gốc; ký hiệu header là `NM`. Đã sửa lỗi tiến trình khởi động lần hai trên Windows trả `0xC0000409` bằng cách cho kết nối kiểm tra máy chủ cũ đóng sạch trước khi thoát.
+> Mới nhất (12/10/2026): theo yêu cầu mới, đã đổi tên hiển thị thành **KHÔNG GIAN LÀM VIỆC BÉ HAI**; thư mục kỹ thuật giữ nguyên để bảo toàn đường dẫn. Đã sửa lỗi tiến trình khởi động lần hai trên Windows trả `0xC0000409`.
 
 > Kiểm tra 12/10/2026 trên Windows 11 môi trường hiện tại: `npm install --ignore-scripts` thành công; `npm run typecheck` PASS; `npm run build` PASS; `npm test` PASS 15/15. Kiểm thử khởi động lần hai đã tái hiện và xác nhận mã thoát 0 sau bản sửa. Chưa thể xác nhận thao tác File Explorer, tự chạy cùng Windows và trải nghiệm người dùng cuối trên máy của cô.
 
-Cập nhật: 12/10/2026. Trạng thái: **V1 đã xây, đã chuẩn hóa theo đặc tả và đạt kiểm thử kỹ thuật trên môi trường Windows hiện tại; chưa có dữ liệu cá nhân thật.**
+Cập nhật: 12/10/2026. Trạng thái: **V1 đã xây, đã đổi tên theo yêu cầu và đạt kiểm thử kỹ thuật trên môi trường Windows hiện tại; chưa có dữ liệu cá nhân thật.**
 
 ## Đã có (có bằng chứng)
 - Ứng dụng web cục bộ: máy chủ `app/server/src/` (Node, `node:http` + `node:sqlite`, không cần `npm install` để chạy), giao diện React 19 + TS + Vite 8 build sẵn ở `app/client/dist`.

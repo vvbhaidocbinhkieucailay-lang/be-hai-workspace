@@ -127,7 +127,7 @@ const url = `http://127.0.0.1:${app.port}/`;
 fs.writeFileSync(runInfo, JSON.stringify({ pid: process.pid, port: app.port, url, root: app.root, started_at: new Date().toISOString() }, null, 2));
 log(`Khởi động ${url} · Node ${process.version} · dữ liệu ${app.dataDir}`);
 console.log('');
-console.log('  KHÔNG GIAN LÀM VIỆC NGỌC MAI đang chạy');
+console.log('  KHÔNG GIAN LÀM VIỆC BÉ HAI đang chạy');
 console.log(`  Địa chỉ: ${url}`);
 console.log(`  Dữ liệu: ${app.dataDir}`);
 console.log('  GIỮ CỬA SỔ NÀY MỞ (có thể thu nhỏ). Đóng cửa sổ = tắt máy chủ.');

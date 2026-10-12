@@ -2,8 +2,8 @@
 
 ## Nhận diện
 - Mã: NMW-001; phiên bản đặc tả: 1.0; lập ngày 06/10/2026.
-- Chủ sử dụng: cô Ngọc Mai; cá nhân giảng dạy Sinh học và Công nghệ.
-- Tên: KHÔNG GIAN LÀM VIỆC NGỌC MAI.
+- Chủ sử dụng: cô Bé Hai; cá nhân giảng dạy Sinh học và Công nghệ.
+- Tên: KHÔNG GIAN LÀM VIỆC BÉ HAI.
 - Giai đoạn hiện tại (06/10/2026): V1 đã lập trình và đạt kiểm thử kỹ thuật; chờ chạy thử trên Windows và nhập dữ liệu thật (xem `memory/STATE.md`).
 - Tham chiếu: `references/giao-dien-tham-chieu.png`.
 
@@ -35,4 +35,4 @@ P2: tinh chỉnh màu, biểu tượng, chuyển động nhẹ.
 ## Hoàn thành dự án V1
 Các tiêu chí cốt lõi trong TIEU_CHI_NGHIEM_THU đạt, có hướng dẫn chạy/dừng, bản sao kiểm thử khôi phục, báo cáo hạn chế và STATE được cập nhật. Không lấy số lượng file hay độ đẹp của ảnh chụp làm bằng chứng thay cho chức năng.
 
-> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC NGỌC MAI**; thư mục dự án vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).
+> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC BÉ HAI**; thư mục dự án kỹ thuật vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).

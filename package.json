@@ -1,8 +1,8 @@
 {
-  "name": "ngoc-mai-workspace",
+  "name": "be-hai-workspace",
   "version": "1.0.0",
   "private": true,
-  "description": "KHÔNG GIAN LÀM VIỆC NGỌC MAI – ứng dụng web cục bộ (localhost) một người dùng",
+  "description": "KHÔNG GIAN LÀM VIỆC BÉ HAI – ứng dụng web cục bộ (localhost) một người dùng",
   "type": "module",
   "engines": {
     "node": ">=22.13"

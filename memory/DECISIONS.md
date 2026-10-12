@@ -21,7 +21,8 @@ Các quyết định dưới đây là phương án của bộ khởi tạo đ�
 | D-015 | 06/10/2026 | Năm học mặc định 2026-2027 (biểu mẫu, trang chủ) | Người dùng yêu cầu | Đã triển khai |
 | D-016 | 06/10/2026 | `KHOI_DONG.bat` chạy máy chủ trong cửa sổ thu nhỏ riêng; chỉ một máy chủ cho một thư mục; ghi `data/run/server.log`; bắt lỗi bất ngờ không cho sập; trang tự kết nối lại | Lần chạy đầu trên Windows báo "Không kết nối được máy chủ cục bộ": CSDL cho thấy tiến trình bị dừng đột ngột (không đóng sạch) – nhiều khả năng cửa sổ máy chủ bị đóng | Đã triển khai; chờ xác nhận trên Windows |
 | D-017 | 06/10/2026 | Máy chủ chạy ẩn qua `app/scripts/mo-ung-dung.vbs`; `CAI_TU_KHOI_DONG.bat`/nút trong Quản lí dữ liệu tạo lối tắt Startup (chạy ẩn khi đăng nhập) + lối tắt màn hình nền; `GO_TU_KHOI_DONG.bat` gỡ | Người dùng yêu cầu lần sau khỏi bấm nút khởi động, mở thẳng bằng link; chỉ tạo/xóa 2 lối tắt của ứng dụng | Đã triển khai; CHƯA KIỂM TRA trên Windows |
-| D-018 | 12/10/2026 | Khôi phục tên hiển thị chính thức thành KHÔNG GIAN LÀM VIỆC NGỌC MAI và ký hiệu nhận diện NM | Đặc tả dự án, tên thư mục và yêu cầu hiện tại đều xác định Ngọc Mai; tránh lệch giữa UI, API và tài liệu | Đã triển khai; thay thế D-013 |
+| D-018 | 12/10/2026 | Khôi phục tên hiển thị chính thức thành KHÔNG GIAN LÀM VIỆC NGỌC MAI và ký hiệu nhận diện NM | Quyết định trước đó; đã được thay thế bởi D-019 theo yêu cầu mới | Bị thay thế bởi D-019 |
+| D-019 | 12/10/2026 | Đổi tên hiển thị thành KHÔNG GIAN LÀM VIỆC BÉ HAI; giữ thư mục kỹ thuật `NGOC-MAI-WORKSPACE` để không làm hỏng đường dẫn dữ liệu | Người dùng yêu cầu đổi tên Ngọc Mai thành Bé Hai trước khi phát hành GitHub | Đã triển khai |
 
 ## Mẫu bổ sung quyết định
 ID; ngày; vấn đề; phương án được chọn; phương án đã cân nhắc; lý do; tác động; bằng chứng hoặc yêu cầu người dùng; quyết định nào bị thay thế. Không xóa lịch sử để che thay đổi; đánh dấu superseded nếu không còn dùng.

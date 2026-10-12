@@ -19,7 +19,7 @@ async function upload(s, docId, name, buf, q = '') {
   return { status: r.status, data: await r.json() };
 }
 
-describe('KHÔNG GIAN LÀM VIỆC NGỌC MAI – API', () => {
+describe('KHÔNG GIAN LÀM VIỆC BÉ HAI – API', () => {
   let root;
   let s;
   before(async () => {

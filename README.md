@@ -44,4 +44,4 @@ Chạy nhanh: cài Node.js LTS (≥ 22.13) → nháy đúp `KHOI_DONG.bat` → t
 ## Bốn câu phân biệt
 `CLAUDE.md` là quy tắc làm việc; `memory/STATE.md` là trạng thái hiện tại; `docs/HO_SO_DU_AN.md` là phạm vi và mục tiêu; `data/` là dữ liệu ứng dụng. Bộ nhớ dự án không thay thế sao lưu dữ liệu.
 
-> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC NGỌC MAI**; thư mục dự án vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).
+> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC BÉ HAI**; thư mục dự án kỹ thuật vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).

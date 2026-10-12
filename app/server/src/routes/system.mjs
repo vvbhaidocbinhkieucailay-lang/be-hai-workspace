@@ -13,7 +13,7 @@ import { HttpError, TIMEZONE, isLocalPath, oneOf, str, todayVN } from '../util.m
 /** @param {() => void} onShutdown */
 export function registerSystem(onShutdown) {
   route('GET', '/api/system/info', ({ app }) => ({
-    app: 'KHÔNG GIAN LÀM VIỆC NGỌC MAI', version: APP_VERSION, mode: app.mode, busy: app.busy,
+    app: 'KHÔNG GIAN LÀM VIỆC BÉ HAI', version: APP_VERSION, mode: app.mode, busy: app.busy,
     schema_version: currentSchemaVersion(app.db), latest_schema: LATEST_SCHEMA, today: todayVN(), timezone: TIMEZONE,
     node: process.version, listen: `127.0.0.1:${app.port}`,
     data: { db: 'data/db/nmw.sqlite', files: 'data/files', backups: 'backups', demo: 'data/demo' },

@@ -1,7 +1,7 @@
 # Chỉ dẫn Claude Code — NGOC MAI WORKSPACE
 
 ## Mục tiêu
-Xây dựng bàn làm việc cá nhân tiếng Việt cho cô Ngọc Mai: giảng dạy Sinh học/Công nghệ, quản lí văn bản, lịch, email quan trọng và luận văn. Giữ tinh thần ảnh tham chiếu, hai khối lớn và sáu phân hệ.
+Xây dựng bàn làm việc cá nhân tiếng Việt cho cô Bé Hai: giảng dạy Sinh học/Công nghệ, quản lí văn bản, lịch, email quan trọng và luận văn. Giữ tinh thần ảnh tham chiếu, hai khối lớn và sáu phân hệ.
 
 ## Bắt đầu mỗi phiên
 1. Xác định thư mục gốc, kiểm tra thay đổi hiện có; không sửa tệp ngoài phạm vi dự án.
@@ -51,4 +51,4 @@ Xây dựng bàn làm việc cá nhân tiếng Việt cho cô Ngọc Mai: giản
 ## Cách sử dụng bộ nhớ
 `memory/STATE.md`, `DECISIONS.md`, `SESSION_LOG.md` là hồ sơ do dự án quy định; phải đọc/cập nhật theo hướng dẫn này. Không giả định mọi file .md tự được Claude Code nạp, cũng không đồng nhất chúng với hệ thống auto memory của Claude Code.
 
-> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC NGỌC MAI**; thư mục dự án vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).
+> Tên hiển thị chính thức của ứng dụng là **KHÔNG GIAN LÀM VIỆC BÉ HAI**; thư mục dự án kỹ thuật vẫn là `NGOC-MAI-WORKSPACE`. Năm học mặc định 2026-2027. Trường nguồn nhận đường dẫn thư mục trên máy (vd. `D:\2026-2027\Giao an`).

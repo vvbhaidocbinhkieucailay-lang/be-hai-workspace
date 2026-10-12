@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng — KHÔNG GIAN LÀM VIỆC NGỌC MAI (V1)
+# Hướng dẫn sử dụng — KHÔNG GIAN LÀM VIỆC BÉ HAI (V1)
 
 Cập nhật: 06/10/2026. Các lệnh dưới đây đã chạy thành công trên Linux VM của ứng dụng Claude gắn với thư mục dự án (Node 22.23.2). **Chưa chạy thử trực tiếp trên Windows** — lần đầu mở trên Windows, hãy làm đúng mục 1–2 và báo lại nếu có lỗi.
 
