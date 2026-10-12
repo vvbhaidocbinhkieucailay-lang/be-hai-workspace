@@ -7,6 +7,13 @@ Cập nhật 06/10/2026: **V1 đã xây** (máy chủ Node + SQLite, giao diện
 
 Chạy nhanh: cài Node.js LTS (≥ 22.13) → nháy đúp `KHOI_DONG.bat` → trình duyệt mở `http://127.0.0.1:5178/`. Dừng: `DUNG.bat` hoặc Ctrl+C. Chi tiết: `docs/HUONG_DAN_SU_DUNG.md`.
 
+## Mã nguồn công khai và link mở ứng dụng
+
+- Mã nguồn công khai: https://github.com/vvbhaidocbinhkieucailay-lang/be-hai-workspace
+- Mở bản đầy đủ trên máy: http://127.0.0.1:5178/ sau khi chạy `KHOI_DONG.bat`.
+- GitHub Pages không được bật cho ứng dụng này vì Pages chỉ phục vụ tệp tĩnh, trong khi V1 cần máy chủ Node.js, SQLite, upload tệp và sao lưu. Không dùng một trang Pages giả vì sẽ làm giao diện báo lỗi API và có thể gây hiểu nhầm rằng dữ liệu đã được lưu.
+- Muốn có URL Internet đầy đủ cần triển khai máy chủ Node.js và cơ sở dữ liệu riêng (kèm chính sách bảo vệ dữ liệu); không đưa `data/`, tệp cá nhân hoặc bản sao lưu lên GitHub.
+
 ## Bắt đầu trên Windows
 1. Giải nén thư mục `NGOC-MAI-WORKSPACE` vào `D:\DU_AN_CA_NHAN\` nếu máy có ổ D.
 2. Nếu không có ổ D, dùng thư mục Documents của tài khoản Windows hiện tại, ví dụ `C:\Users\<ten-tai-khoan>\Documents\DU_AN_CA_NHAN\NGOC-MAI-WORKSPACE`. Không nhập nguyên văn phần `<ten-tai-khoan>`.
